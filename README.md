@@ -1,0 +1,1 @@
+# community_memory_template
